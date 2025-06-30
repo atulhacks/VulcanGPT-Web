@@ -2,7 +2,7 @@
 
 A modern, responsive website for the Vulcan GPT AI framework built with React, TypeScript, and Tailwind CSS.
 
-## Visit - https://github.com/atulhacks/VulcanGPT-Web/deployments/github-pages
+## Visit - https://github.com/atulhacks/VulcanGPT-Web/
 
 ## Features
 
