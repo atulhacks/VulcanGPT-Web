@@ -52,7 +52,7 @@ This repository is configured with GitHub Actions for automatic deployment to Gi
 1. **Push to main/master branch** → Triggers automatic build and deployment
 2. **GitHub Actions** builds the project using Vite
 3. **Deploys to GitHub Pages** automatically
-4. **Live website** is updated within minutes
+4. **Live website** is updated within minute
 
 ### **The deployment is already set up and working at:**
 **https://atulhacks.github.io/VulcanGPT-Web/**
